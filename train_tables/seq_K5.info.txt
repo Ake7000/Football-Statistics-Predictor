@@ -1,0 +1,8 @@
+CSV             : fixedslots_v2__2017-2018_to_2025-2026__stats(g1-d3-m3-a5)__slots(1-6-6-4)__form5__cfg_2a5258cfb0.csv
+N fixtures      : 1806
+K (seq len)     : 5
+F (input dim)   : 14
+Stats (for/ag.) : ['GOALS', 'CORNERS', 'YELLOWCARDS', 'SHOTS_ON_TARGET', 'FOULS', 'OFFSIDES', 'REDCARDS']
+home_seq shape  : (1806, 5, 14)
+away_seq shape  : (1806, 5, 14)
+Padded steps    : home=1523/9030 (16.9%)  away=1545/9030 (17.1%)
